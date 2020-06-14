@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  12 JUN 2020 12:11
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  13 JUN 2020 19:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/ethanholen/Dropbox/Personal/resume/myResume/resume
-(/Users/ethanholen/Dropbox/Personal/resume/myResume/resume.tex
+**"/Users/ethanholen/Dropbox/Personal/Resume Stuff/resume/resume"
+(/Users/ethanholen/Dropbox/Personal/Resume Stuff/resume/resume.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (./awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
@@ -825,18 +825,7 @@ Overfull \hbox (2.92001pt too wide) in paragraph at lines 21--49
    [] 
  []
 
-) (./resume/education.tex) (./resume/committees.tex) (./resume/extracurricular.tex
-Runaway argument?
-./resume/extracurricular.tex:38: Paragraph ended before \cventry was complete.
-<to be read again> 
-                   \par 
-l.38 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-) [1
+) (./resume/education.tex) (./resume/committees.tex) (./resume/extracurricular.tex) [1
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
@@ -856,11 +845,11 @@ Package rerunfilecheck Info: Checksums for `resume.out':
  ) 
 Here is how much of TeX's memory you used:
  31922 strings out of 479418
- 630887 string characters out of 5884586
+ 630899 string characters out of 5884586
  1067547 words of memory out of 5000000
  48904 multiletter control sequences out of 15000+600000
  534966 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,11n,112p,844b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,11n,112p,850b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
