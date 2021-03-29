@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  26 MAR 2021 15:22
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  29 MAR 2021 08:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -244,53 +244,7 @@ LaTeX Info: Redefining \] on input line 2860.
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
  (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
-
-/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesome.sty:46: Package fontspec Error: The font "FontAwesome" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.46 
-     
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesome.sty:46: Package fontspec Error: The font "FontAwesome" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.46 
-     
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesome.sty:46: Package fontspec Error: The font "FontAwesome" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.46 
-     
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/usr/local/texlive/2020/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/usr/local/texlive/2020/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
 Package: sourcesanspro 2016/12/03 v2.6 Adobe's Source Sans Pro typeface
  (/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
@@ -636,8 +590,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip81
-))
-No file ethan-holen-resume.aux.
+)) (./ethan-holen-resume.aux)
 \openout1 = `ethan-holen-resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
@@ -662,7 +615,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
 LaTeX Font Info:    ... okay on input line 81.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 81.
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 81.
 
 *geometry* driver: auto-detecting
@@ -748,12 +701,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 81.
 LaTeX Info: Redefining \pageref on input line 81.
 LaTeX Info: Redefining \nameref on input line 81.
+ (./ethan-holen-resume.out) (./ethan-holen-resume.out)
 \@outlinefile=\write6
 \openout6 = `ethan-holen-resume.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 \headertextwidth=\skip82
 \headerphotowidth=\skip83
@@ -773,23 +723,6 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 85.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 7.6pt on input line 85.
-/Users/ethanholen/Dropbox/Personal/Portfolio-Resume/resume/ethan-holen-resume.tex:85: Font TU/FontAwesome(0)/m/n/6.8=FontAwesome at 6.8pt not loadable: Metric (TFM) file or installed font not found.
-<to be read again> 
-                   relax 
-l.85 \makecvheader[C]
-                     
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-Missing character: There is no  in font nullfont!
-Missing character: There is no  in font nullfont!
-Missing character: There is no  in font nullfont!
-Missing character: There is no  in font nullfont!
-Missing character: There is no  in font nullfont!
-Missing character: There is no  in font nullfont!
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 85.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
@@ -853,22 +786,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
  (./ethan-holen-resume.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 110.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
-
-
-Package rerunfilecheck Warning: File `ethan-holen-resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ethan-holen-resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `ethan-holen-resume.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31941 strings out of 479418
- 631935 string characters out of 5884586
- 1065440 words of memory out of 5000000
- 48914 multiletter control sequences out of 15000+600000
- 536264 words of font info for 103 fonts, out of 8000000 for 9000
+ 31952 strings out of 479418
+ 632210 string characters out of 5884586
+ 1065558 words of memory out of 5000000
+ 48913 multiletter control sequences out of 15000+600000
+ 536296 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,11n,112p,864b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
 
